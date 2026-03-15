@@ -179,9 +179,9 @@ This project demonstrates:
 ---
 ## 📸 UI Preview
 
-![SigmaGPT UI](https://raw.githubusercontent.com/Zoregaurav/SigmaGPT-AI-Conversational-Assistant/08dd9ed413f7c7c7b7f7e505594c1603dfacb9c4/asset-1.png)
+![SigmaGPT UI](https://github.com/Zoregaurav/SigmaGPT-AI-Conversational-Assistant/blob/e66f8c27ecf52ccc894357c466918092c34fcd6f/asset-1.png)
 
-![SigmaGPT UI](https://github.com/Zoregaurav/SigmaGPT-AI-Conversational-Assistant/blob/08dd9ed413f7c7c7b7f7e505594c1603dfacb9c4/asset-2.png)
+![SigmaGPT UI](https://github.com/Zoregaurav/SigmaGPT-AI-Conversational-Assistant/blob/e66f8c27ecf52ccc894357c466918092c34fcd6f/asset-2.png)
 
 ---
 ## 👨‍💻 Author
