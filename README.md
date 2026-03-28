@@ -19,6 +19,15 @@ The application also **stores chat history in MongoDB**, allowing users to revis
 
 ---
 
+## 📸 UI Screenshots
+
+### Main Chat Interface
+![Main Chat Interface](./screenshots/main-chat.png)
+
+
+
+---
+
 ## 🛠️ Tech Stack
 
 ### Frontend
@@ -176,7 +185,6 @@ This project demonstrates:
 - 🌗 **Light & Dark Theme** — Toggle between light and dark mode for better user experience
 - 📋 **Dropdown Functionality** — Implement interactive dropdown menus for better navigation
 - 🎙️ **Voice Feature** — Add voice input/output support using OpenAI APIs
-- 🚀 **Deployment** — Deploy the full-stack app on platforms like Vercel (Frontend) & Render (Backend)
 
 ---
 
