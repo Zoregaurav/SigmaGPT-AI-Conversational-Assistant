@@ -22,8 +22,9 @@ The application also **stores chat history in MongoDB**, allowing users to revis
 ## 📸 UI Screenshots
 
 ### Main Chat Interface
-![Main Chat Interface](./screenshots/main-chat.png)
-
+![Main Chat Interface](https://github.com/Zoregaurav/SigmaGPT-AI-Conversational-Assistant/blob/572659e20aadb8336c3160b7c820070023d9c8a0/asset-1.png)
+---
+![Main Chat Interface](https://github.com/Zoregaurav/SigmaGPT-AI-Conversational-Assistant/blob/572659e20aadb8336c3160b7c820070023d9c8a0/asset-2.png)
 
 
 ---
